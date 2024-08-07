@@ -1,0 +1,4 @@
+- 👋 Olá, eu sou a Sabrina Peres, tenho 22 anos moro em Mandaguaçu - Pr e sou formada em Marketing desde 2023.
+- 🌱 Atualmente cursando 1º ano de Análise e Desenvolvimento de Sistemas, além dos cursos sobre HTML, CSS E JAVASCRIPT da Alura.
+- ⚡ Gosto de tecnologia, de desenvolver sites bem estruturados, com design robusto porém funcional.  
+- ⚡ Estou adorando me aventurar nessa área e espero me desenvolver cada vez mais! 
